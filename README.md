@@ -1,2 +1,2 @@
-# covid-19-dashbaord
+# Covid-19-dashboard
 Pandemic 2019 
